@@ -1,0 +1,1 @@
+Reproduce immutable warnings cauesd by redux-storage, the project is is based on [React Redux Starter Kit](https://github.com/michaelcontento/redux-storage).
